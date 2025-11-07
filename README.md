@@ -19,7 +19,7 @@
 - 🌱 Currently exploring **Authentication, Charts, and Role-Based Dashboards**
 - 💬 Ask me about **MERN Stack, Firebase, or anything full-stack**
 - 📧 Reach me at: **parnandivarun@gmail.com**
-- 🌐 Portfolio: [https://your-portfolio.netlify.app/](https://your-portfolio.netlify.app/)
+- 🌐 Portfolio: [https://vercel.com/varun-parnandis-projects/portfolio](https://vercel.com/varun-parnandis-projects/portfolio)
 
 ---
 
