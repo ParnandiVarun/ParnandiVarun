@@ -1,8 +1,11 @@
 <!-- GitHub Profile README for ParnandiVarun -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E6FE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Parnandi;Full+Stack+Developer;MERN+Stack+%7C+Firebase+%7C+React;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E6FE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Parnandi;Aspiring+Full+Stack+Developer+(MERN);MERN+Stack+%7C+Firebase+%7C+React" alt="Typing Animation" />
 </h1>
+<p align="center">
+  <b>Aspiring MERN Developer | Interested in UI/UX & Modern Web Development</b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-Developer-00E676?style=for-the-badge&logo=javascript&logoColor=black" />
