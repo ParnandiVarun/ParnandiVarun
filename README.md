@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for ParnandiVarun -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E6FE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Parnandi;Aspiring+Full+Stack+Developer+(MERN);MERN+Stack+%7C+Firebase+%7C+React" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E6FE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Parnandi;Aspiring+Full+Stack+Developer+(MERN);MERN+Stack+%7C+Firebase" alt="Typing Animation" />
 </h1>
 <p align="center">
   <b>Aspiring MERN Developer | Interested in UI/UX & Modern Web Development</b>
@@ -37,14 +37,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParnandiVarun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ParnandiVarun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ParnandiVarun&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ParnandiVarun&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParnandiVarun&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ParnandiVarun&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
