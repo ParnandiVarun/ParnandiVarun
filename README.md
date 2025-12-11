@@ -63,7 +63,7 @@
   <a href="https://github.com/ParnandiVarun" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.netlify.app/" target="_blank">
+  <a href="https://portfolio-jet-eta-3fic987g6u.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
